@@ -17,7 +17,6 @@
         <li><a href="#proposed-solution">Proposed solution</a></li>
         <li><a href="#databases">Databases</a></li>
         <li><a href="#results">Results</a></li>
-        <li><a href="#summary">Summary</a></li>
       </ul>
     </li>
     <li>
@@ -60,17 +59,31 @@ Q-4 system:
 
 Based on an analysis of the two questionnaires used, a system was developed that works according to the age of the patient ( in months). In addition, it took into account such parameters as the child's ethnicity, ASD cases in the family and gender:
 
-![solution](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/schema.jpg)
+![solution](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/schem.JPG)
 
+Q10 system applied in Matlab:
+![Q10](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/Obraz2.JPG)
+
+Q4 system applied in Matlab:
+![Q4](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/Obraz3.JPG)
+
+PredAut system applied in Matlab:
+![predAut](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/Obraz4.JPG)
 
 ### Databases
-
-- Toddler Autism dataset July 2018
-- Autism Spectrum Disorder Screening Data for Toddlers in Saudi Arabia Dataset
+Databases used to develop and test the system:
+- Toddler Autism dataset July 2018 https://www.kaggle.com/datasets/fabdelja/autism-screening-for-toddlers 
+- Autism Spectrum Disorder Screening Data for Toddlers in Saudi Arabia Dataset https://www.kaggle.com/datasets/asdpredictioninsaudi/asd-screening-data-for-toddlers-in-saudi-arabia
 
 ### Results
 
-### Summary
+The system was tested by manually entering sample inputs and comparing the results obtained and on two databases. The results are shown below.
+
+Toddler Autism Dataset - probabilities for patients with ASD (left) and no ASD (right):
+![tad](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/fbdfeb5f-32fc-4d29-b3af-101968f5a325)
+
+ASD Screening Data for Toddlers - probabilities for patients with ASD (left) and no ASD (right):
+![asds](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/ca94b278-3285-4286-9544-08cda3388bb9)
 
 
 <!-- GETTING STARTED -->
