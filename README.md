@@ -112,6 +112,33 @@ https://www.mathworks.com/matlabcentral/fileexchange/6434-fuzzy-logic-toolbox-ad
 
 # Bibliography:
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4067639/
+Autism Spectrum Disorders and Race, Ethnicity, and Nativity: A Population-Based Study.
+Becerra TA, von Ehrenstein OS, Heck JE, Olsen J, Arah OA, Jeste SS, Rodriguez M, Ritz B
+
+https://www.cdc.gov/ncbddd/autism/addm-community-report/differences-in-children.html
+Spotlight On: Racial and Ethnic Differences in Children Identified with Autism Spectrum Disorder (ASD)
+
+https://www.cdc.gov/ncbddd/autism/data/index.html
+
+https://pubmed.ncbi.nlm.nih.gov/18253102/
+Diagnosis of autism spectrum disorders in the first 3 years of life.
+Rebecca J Landa
+
+https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12031
+Sensory Symptoms in Autism: A Blooming, Buzzing Confusion?
+Elizabeth Pellicano
+
+https://www.bmj.com/content/327/7413/488.short
+Diagnosis of autism
+Baird G, Cass H, Slonims V.
+
+https://link.springer.com/content/pdf/10.1007/978-1-4899-0882-7.pdf?pdf=button
+Diagnosis and Treatment of Autism.
+Christopher Gillberg 
+
+
+
 
 
 <!-- README created using the following template -->
