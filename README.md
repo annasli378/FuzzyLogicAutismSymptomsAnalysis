@@ -47,7 +47,8 @@ Early signs of autism in a child may include :
 ### Methods of diagnosis
 Q-10 system:
 
-![q10](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/Obraz1.jpg)
+![Obraz1](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/21410b9c-63a8-4cc2-9616-cf0db50237f2)
+
 
 Q-4 system:
 - Does the child make eye contact?
@@ -59,16 +60,20 @@ Q-4 system:
 
 Based on an analysis of the two questionnaires used, a system was developed that works according to the age of the patient ( in months). In addition, it took into account such parameters as the child's ethnicity, ASD cases in the family and gender:
 
-![solution](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/schem.JPG)
+![schem](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/4bfa0123-bf31-4382-a5eb-473a632654a4)
 
 Q10 system applied in Matlab:
-![Q10](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/Obraz2.JPG)
+
+![Obraz2](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/cef57a7f-826b-49ac-8f2c-487dbb7a867e)
 
 Q4 system applied in Matlab:
-![Q4](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/Obraz3.JPG)
+
+![Obraz3](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/959b187f-a803-4ae5-a5f5-0c59716be7a9)
 
 PredAut system applied in Matlab:
-![predAut](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/Obraz4.JPG)
+
+![Obraz4](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/03cb7ee8-3b0a-446e-b486-2f1c2153b961)
+
 
 ### Databases
 Databases used to develop and test the system:
