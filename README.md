@@ -47,7 +47,7 @@ Early signs of autism in a child may include :
 ### Methods of diagnosis
 Q-10 system:
 
-![Obraz1](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/21410b9c-63a8-4cc2-9616-cf0db50237f2)
+![q10](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/q10.jpg)
 
 
 Q-4 system:
@@ -60,19 +60,19 @@ Q-4 system:
 
 Based on an analysis of the two questionnaires used, a system was developed that works according to the age of the patient ( in months). In addition, it took into account such parameters as the child's ethnicity, ASD cases in the family and gender:
 
-![schem](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/4bfa0123-bf31-4382-a5eb-473a632654a4)
+![schem](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/schem.JPG)
 
 Q10 system applied in Matlab:
 
-![Obraz2](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/cef57a7f-826b-49ac-8f2c-487dbb7a867e)
+![Obraz2](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/Q10.png)
 
 Q4 system applied in Matlab:
 
-![Obraz3](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/959b187f-a803-4ae5-a5f5-0c59716be7a9)
+![Obraz3](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/Q4.png)
 
 PredAut system applied in Matlab:
 
-![Obraz4](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/03cb7ee8-3b0a-446e-b486-2f1c2153b961)
+![Obraz4](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/predAut.png)
 
 
 ### Databases
@@ -85,10 +85,10 @@ Databases used to develop and test the system:
 The system was tested by manually entering sample inputs and comparing the results obtained and on two databases. The results are shown below.
 
 Toddler Autism Dataset - probabilities for patients with ASD (left) and no ASD (right):
-![tad](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/fbdfeb5f-32fc-4d29-b3af-101968f5a325)
+![tad](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/tad.JPG)
 
 ASD Screening Data for Toddlers - probabilities for patients with ASD (left) and no ASD (right):
-![asds](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/assets/86146614/ca94b278-3285-4286-9544-08cda3388bb9)
+![asds](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/asds.JPG)
 
 
 <!-- GETTING STARTED -->
