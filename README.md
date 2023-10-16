@@ -1,8 +1,39 @@
 # Fuzzy Logic based system for analysing symptoms of autism in children
 
-The main objective of the project was to develop a fuzzy system that allows early assessment of the probability of autism in children under the age of 3 and to indicate further recommendations for parents.
+<!-- PROJECT LOGO -->
+<br />
+  <p align="left">
+    The main objective of the project was to develop a fuzzy system that allows early assessment of the probability of autism in children under the age of 3 and to indicate further recommendations for parents.
+</p>
 
-## About
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#methods-of-diagnosis">Methods of diagnosis</a></li>
+        <li><a href="#proposed-solution">Proposed solution</a></li>
+        <li><a href="#databases">Databases</a></li>
+        <li><a href="#results">Results</a></li>
+        <li><a href="#summary">Summary</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#bibliography">Bibliography</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
 Early signs of autism in a child may include : 
 - atypical eye contact,
 - lack of response to messages directed to the child,
@@ -14,27 +45,46 @@ Early signs of autism in a child may include :
 - lack of following with the eyes a person, a toy being shown, etc,
 - lack of understanding and imitation of gestures.
 
-## Methods od diagnosis:
-Q-10 system
+### Methods of diagnosis
+Q-10 system:
+
 Q-4 system
 
-## Proposed solution:
+### Proposed solution
 
 
-## Databases used
+### Databases
 
 - Toddler Autism dataset July 2018
 - Autism Spectrum Disorder Screening Data for Toddlers in Saudi Arabia Dataset
 
+### Results
+
+### Summary
 
 
-## Manual testing of the system :
+<!-- GETTING STARTED -->
+## Getting Started
 
-## System results for the above databases
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+To build this project, you require:
+* MATLAB with Fuzzy Logic Toolbox Add-On
+https://www.mathworks.com/matlabcentral/fileexchange/6434-fuzzy-logic-toolbox-add-on
+
+### Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis.git
+   ```
+2. Open project in Matlab.
+3. Run 'system_test' file or 'system_matrix' file.
+
+
+# Bibliography:
 
 
 
-## Conclusions:
-
-
-## Bibliography
+<!-- README created using the following template -->
+<!-- https://github.com/othneildrew/Best-README-Template -->
