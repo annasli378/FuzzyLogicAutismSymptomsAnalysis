@@ -47,11 +47,20 @@ Early signs of autism in a child may include :
 
 ### Methods of diagnosis
 Q-10 system:
+
 ![q10](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/Obraz1.jpg)
 
-Q-4 system
+Q-4 system:
+- Does the child make eye contact?
+- Does the child look at objects the parent shows him or her?
+- Does the child chatter?
+- Does the child reciprocate smiles and respond to the parent's facial expressions?
 
 ### Proposed solution
+
+Based on an analysis of the two questionnaires used, a system was developed that works according to the age of the patient ( in months). In addition, it took into account such parameters as the child's ethnicity, ASD cases in the family and gender:
+
+![solution](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/schema.jpg)
 
 
 ### Databases
