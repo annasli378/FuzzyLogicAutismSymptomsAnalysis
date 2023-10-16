@@ -47,6 +47,7 @@ Early signs of autism in a child may include :
 
 ### Methods of diagnosis
 Q-10 system:
+![q10](https://github.com/annasli378/FuzzyLogicAutismSymptomsAnalysis/blob/main/Obraz1.jpg)
 
 Q-4 system
 
